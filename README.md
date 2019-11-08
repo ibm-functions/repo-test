@@ -8,4 +8,6 @@ Another line added in upstream repo
 
 5th line to provoke conflict
 
+Conflicting line from upstream repo to verify that change can be merged without merge commit
+
 Addition in fork - must never show up in upstream.
